@@ -53,7 +53,7 @@ Add backend for student form submissions and data handling.
 Include real-time updates/events section using APIs.
 
 📧 Contact
-If you have any feedback or queries, feel free to reach out at srmuap@srmap.edu.in or visit SRM University AP.
+If you have any feedback or queries, feel free to reach out at sruthisoppa@gmail.com.
 
 📄 License
 This project is licensed under the MIT License - feel free to use and modify.
